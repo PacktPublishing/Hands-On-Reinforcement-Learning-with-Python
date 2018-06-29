@@ -1,6 +1,6 @@
 # Hands-On-Reinforcement-Learning-with-Python
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python?utm_source=github&utm_medium=repository&utm_campaign=9781788836524"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python?utm_source=github&utm_medium=repository&utm_campaign=9781788836524"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09792_Newcover.png" alt="Hands-On Reinforcement Learning with Python" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On-Reinforcement-Learning-with-Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python?utm_source=github&utm_medium=repository&utm_campaign=9781788836524), published by Packt.
 

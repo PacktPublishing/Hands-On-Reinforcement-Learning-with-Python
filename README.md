@@ -54,7 +54,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Statistics for Machine Learning [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/statistics-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788295757)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Sudharsan Ravichandiran**
 is a data scientist, researcher, artificial intelligence enthusiast,
 and YouTuber (search for Sudharsan reinforcement learning). He completed his bachelors

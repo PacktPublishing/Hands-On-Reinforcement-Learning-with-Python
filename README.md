@@ -10,11 +10,11 @@ This is the code repository for [Go to Bing homepage](https://www.packtpub.com/b
 0
 
 This book covers the following exciting features:
-[*]Understand the basics of reinforcement learning methods, algorithms, and elements
-[*]Train an agent to walk using OpenAI Gym and Tensorflow
-[*]Understand the Markov Decision Process, Bellman’s optimality, and TD learning
-[*]Solve multi-armed-bandit problems using various algorithms
-[*]Master deep learning algorithms, such as RNN, LSTM, and CNN with applications
+* [*]Understand the basics of reinforcement learning methods, algorithms, and elements
+* [*]Train an agent to walk using OpenAI Gym and Tensorflow
+* [*]Understand the Markov Decision Process, Bellman’s optimality, and TD learning
+* [*]Solve multi-armed-bandit problems using various algorithms
+* [*]Master deep learning algorithms, such as RNN, LSTM, and CNN with applications
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788836529) today!
 
@@ -67,28 +67,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Sudharsan Ravichandiran**
 is a data scientist, researcher, artificial intelligence enthusiast, and YouTuber (search for Sudharsan reinforcement learning). He completed his bachelors in information technology at Anna University. His area of research focuses on practical implementations of deep learning and reinforcement learning, which includes natural language processing and computer vision. He used to be a freelance web developer and designer and has designed award-winning websites. He is an open source contributor and loves answering questions on Stack Overflow.
 
-****
-0
-
-****
-0
-
-****
-0
-
-****
-0
-
-## Other books by the authors
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.

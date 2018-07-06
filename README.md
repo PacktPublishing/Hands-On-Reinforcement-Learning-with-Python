@@ -10,11 +10,11 @@ This is the code repository for [Go to Bing homepage](https://www.packtpub.com/b
 0
 
 This book covers the following exciting features:
-* [*]Understand the basics of reinforcement learning methods, algorithms, and elements
-* [*]Train an agent to walk using OpenAI Gym and Tensorflow
-* [*]Understand the Markov Decision Process, Bellman’s optimality, and TD learning
-* [*]Solve multi-armed-bandit problems using various algorithms
-* [*]Master deep learning algorithms, such as RNN, LSTM, and CNN with applications
+* Understand the basics of reinforcement learning methods, algorithms, and elements
+* Train an agent to walk using OpenAI Gym and Tensorflow
+* Understand the Markov Decision Process, Bellman’s optimality, and TD learning
+* Solve multi-armed-bandit problems using various algorithms
+* Master deep learning algorithms, such as RNN, LSTM, and CNN with applications
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788836529) today!
 

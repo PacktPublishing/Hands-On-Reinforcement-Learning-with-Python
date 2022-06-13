@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B09792?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Hands-On-Reinforcement-Learning-with-Python
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python?utm_source=github&utm_medium=repository&utm_campaign=9781788836524"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B09792_Newcover.png" alt="Hands-On Reinforcement Learning with Python" height="256px" align="right"></a>
